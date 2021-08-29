@@ -1,0 +1,5 @@
+Use prog_run.sh to generate data
+move into relevant folders (have to do manually)
+use ipynb to generate pictures 
+use ffmpec to generate video clips
+use kdenlive to assemble into final video
